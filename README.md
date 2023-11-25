@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=raymartsalvador)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raymartsalvador&theme=dark)](https://git.io/streak-stats)
 <!--
 **raymartsalvador/raymartsalvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
