@@ -2,18 +2,17 @@
 <div align="center">
 
 <a href="https://raymartsalvador.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=22C55E&center=true&vCenter=true&width=680&height=70&lines=%3E+raymart.dev;Software+Engineer+%40+Toshiba;Full-Stack+Builder+%E2%80%94+.NET+%2B+Next.js;I+ship+products%2C+not+just+features." alt="Raymart Salvador — Software Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=680&height=70&lines=Raymart+Salvador;Full-Stack+Software+Engineer+%E2%80%94+.NET+%2B+Next.js;I+design%2C+build%2C+and+ship+real+products." alt="Raymart Salvador, Full-Stack Software Engineer (.NET + Next.js)" />
 </a>
 
-### `Raymart Salvador` — Software Engineer & Full-Stack Developer
+### Full-Stack Software Engineer · ASP.NET Core + Next.js
 
-Building internal systems at scale by day, shipping real products by night.<br/>
-Based in the Philippines 🇵🇭 · BS Computer Engineering, PUP
+I design, build, and ship real products end to end: enterprise systems by day, my own SaaS products by night.<br/>
+3+ years shipping · Philippines 🇵🇭 (UTC+8) · BS Computer Engineering, PUP
 
-<a href="https://raymartsalvador.github.io/"><img src="https://img.shields.io/badge/Portfolio-raymart.dev-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0F1A" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/raymart-salvador-a08394271"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F1A" alt="LinkedIn" /></a>
-<a href="https://facebook.com/rymrtslvdr"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0B0F1A" alt="Facebook" /></a>
-<img src="https://komarev.com/ghpvc/?username=raymartsalvador&label=Profile%20views&color=22C55E&style=for-the-badge" alt="Profile views" />
+<a href="https://raymartsalvador.github.io/"><img src="https://img.shields.io/badge/Portfolio-raymartsalvador.github.io-22C55E?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0B0F1A" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/raymartsalvador"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F1A" alt="LinkedIn" /></a>
+<a href="https://raymartsalvador.github.io/assets/files/RaymartSalvador.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-E2E8F0?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0B0F1A" alt="Résumé" /></a>
 
 </div>
 
@@ -23,20 +22,18 @@ Based in the Philippines 🇵🇭 · BS Computer Engineering, PUP
 
 ```ts
 const raymart = {
-  role:      "Software Engineer @ Toshiba",
-  focus:     ["Enterprise systems", "Full-stack product builds", "DX & tooling"],
-  currently: "Sole dev on an E-Clearance system deployed across an 8,000-employee site",
-  building:  ["Certify+", "Peyg", "gov & client web platforms"],
-  stack:     { core: ".NET / C# / Angular", web: "Next.js / React / TypeScript" },
-  learning:  "Cloud architecture, DevOps, and shipping faster without breaking things",
-  mantra:    "Make it work, make it right, make it ship.",
+  role:     "Full-Stack Software Engineer",
+  stack:    { backend: "ASP.NET Core · C# · SQL Server", frontend: "Next.js · React · TypeScript" },
+  shipping: ["Certify+", "Peyg", "QueueWise (City of Biñan BPLO)"],
+  strengths:["Owning a product end to end", "Turning paper processes into systems", "Clean, testable APIs"],
+  learning: "Cloud architecture and DevOps",
 };
 ```
 
-- 🏢 **Software Engineer at Toshiba** — sole developer on an internal **E-Clearance system** rolled out across an **8,000-employee site**, cutting a multi-week manual process down to days and processing **2,500+ resignations in 2 years**. A starter template I built became the team standard for **5+ developers**.
-- 🚀 **Independent full-stack developer** since 2023 — designing and shipping production products and client platforms end-to-end.
-- 🎤 **Community & speaking** — fireside-chat panelist at *Innobazaar 2026 (DOST · PUP Pylon Demo Day)*, startup pitch at *Cohort 1 Demo Day*, and workshop speaker at the *ACES "Wired for the Web" Arduino seminar* (PUP CITE).
-- 🌱 Always leveling up on architecture, cloud, and clean, testable systems.
+- 🏢 **Enterprise systems.** Sole developer of an ASP.NET Core + SQL Server **E-Resignation & Clearance system** for an **8,000-employee manufacturer** (Toshiba Information Equipment). It replaced a paper process, handled **2,500+ resignations in 2 years**, and cut turnaround from weeks to days. A starter template I built became the standard for **5+ developers** on the team.
+- 🚀 **Products I launched and still run.** [Certify+](https://certify.cybernestsolution.com) and [Peyg](https://peyg.app), both Next.js + Supabase, built and operated end to end.
+- 🏛️ **Government work.** Led the build of **QueueWise**, priority-aware ticketing and live display boards for the City of Biñan BPLO, serving hundreds of citizens a day and thousands during peak permit season.
+- 🎤 **Community.** Panelist at *Innobazaar 2026 (DOST · PUP Pylon Demo Day)*, startup pitch at *Cohort 1 Demo Day*, workshop speaker at the *ACES "Wired for the Web"* seminar (PUP CITE).
 
 <!-- ========================= FEATURED WORK ========================= -->
 
@@ -44,78 +41,66 @@ const raymart = {
 
 | Project | What it is | Stack |
 | :------ | :--------- | :---- |
-| **Certify+** | Certificate generation & verification platform | Full-stack web |
-| **Peyg** | Product build — end-to-end full-stack | Next.js · TypeScript |
-| **BPLO System** | Business permit & licensing workflow for LGU use | Full-stack |
-| **Client Platforms** | AeroComp · StayFlix · ENEDA · Orbit 360 · Inokuchi | React / Next.js |
+| **[Certify+](https://raymartsalvador.github.io/work/certify/)** | SaaS for schools and training centers to generate and verify certificates | Next.js · Supabase · PostgreSQL |
+| **[Peyg](https://raymartsalvador.github.io/work/peyg/)** | Multi-tenant mini-site builder with lead capture for local sellers | Next.js · Supabase · TypeScript |
+| **[QueueWise · BPLO](https://raymartsalvador.github.io/work/bplo/)** | Real-time queueing system for a city permit office | Full-stack · Realtime |
+| **E-Resignation & Clearance** | Internal clearance workflow for an 8,000-employee site (private) | ASP.NET Core · SQL Server |
 
-> 🔗 See the full case studies and live demos on **[raymartsalvador.github.io](https://raymartsalvador.github.io/)**
+> 🔗 Case studies, screenshots and live links: **[raymartsalvador.github.io](https://raymartsalvador.github.io/)**
 
 <!-- ========================= TECH STACK ========================= -->
 
 ## `>` tech stack
 
-**Languages**
+**Backend** &nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0B0F1A)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0B0F1A)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0B0F1A)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0B0F1A)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0B0F1A)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0B0F1A)
+**Frontend** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Frameworks & Runtime**
+**Data** &nbsp;
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0B0F1A)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=0B0F1A)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0B0F1A)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0B0F1A)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0B0F1A)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=0B0F1A)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0B0F1A)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0B0F1A)
-
-**Databases & Cloud**
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0B0F1A)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0B0F1A)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0B0F1A)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0F1A)
-
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0B0F1A)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F1A)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0B0F1A)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0B0F1A)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=0B0F1A)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0B0F1A)
+**Ship & test** &nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 <!-- ========================= GITHUB STATS ========================= -->
 
-## `>` github stats
+## `>` activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=raymartsalvador&show_icons=true&hide_border=true&count_private=true&title_color=22C55E&icon_color=22C55E&text_color=94A3B8&bg_color=0B0F1A" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymartsalvador&layout=compact&hide_border=true&title_color=22C55E&text_color=94A3B8&bg_color=0B0F1A" alt="Top languages" />
+<sub>Most of my work lives in private client and company repositories, so these counts include private contributions.</sub><br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raymartsalvador&hide_border=true&background=0B0F1A&stroke=22C55E&ring=22C55E&fire=4ADE80&currStreakLabel=22C55E&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=raymartsalvador&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=raymartsalvador&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=22C55E&icon_color=22C55E&text_color=94A3B8&bg_color=0B0F1A" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymartsalvador&layout=compact&hide_border=true&title_color=22C55E&text_color=94A3B8&bg_color=0B0F1A" alt="Top languages" />
 
 </div>
 
 <!-- ========================= CONTACT ========================= -->
 
-## `>` let's build something
+## `>` get in touch
 
 <div align="center">
 
-I'm open to collaboration, freelance builds, and interesting engineering problems.
+Happy to talk about product engineering, .NET and Next.js, or anything I've built.
 
-<a href="https://raymartsalvador.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-raymart.dev-22C55E?style=for-the-badge&labelColor=0B0F1A" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/raymart-salvador-a08394271"><img src="https://img.shields.io/badge/💬_Message_me-LinkedIn-0A66C2?style=for-the-badge&labelColor=0B0F1A" alt="LinkedIn" /></a>
+<a href="https://raymartsalvador.github.io/#contact"><img src="https://img.shields.io/badge/🌐_Contact-raymartsalvador.github.io-22C55E?style=for-the-badge&labelColor=0B0F1A" alt="Contact via portfolio" /></a>
+<a href="https://linkedin.com/in/raymartsalvador"><img src="https://img.shields.io/badge/💬_Message_me-LinkedIn-0A66C2?style=for-the-badge&labelColor=0B0F1A" alt="LinkedIn" /></a>
 
 <sub><code>&gt; make it work · make it right · make it ship</code></sub>
 
