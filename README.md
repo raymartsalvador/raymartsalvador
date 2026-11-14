@@ -2,10 +2,10 @@
 <div align="center">
 
 <a href="https://raymartsalvador.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=680&height=70&lines=Raymart+Salvador;Full-Stack+Developer+%E2%80%94+.NET+%2B+Next.js;I+design%2C+build%2C+and+ship+real+products." alt="Raymart Salvador, Full-Stack Developer (.NET + Next.js)" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=680&height=70&lines=Raymart+Salvador;Full-Stack+Software+Engineer+%E2%80%94+.NET+%2B+Next.js;I+design%2C+build%2C+and+ship+real+products." alt="Raymart Salvador, Full-Stack Software Engineer (.NET + Next.js)" />
 </a>
 
-### Full-Stack Developer · ASP.NET Core + Next.js
+### Full-Stack Software Engineer · ASP.NET Core + Next.js
 
 I design, build, and ship real products end to end: enterprise systems by day, my own SaaS products by night.<br/>
 3+ years shipping · Philippines 🇵🇭 (UTC+8) · BS Computer Engineering, PUP
@@ -22,7 +22,7 @@ I design, build, and ship real products end to end: enterprise systems by day, m
 
 ```ts
 const raymart = {
-  role:     "Full-Stack Developer",
+  role:     "Full-Stack Software Engineer",
   stack:    { backend: "ASP.NET Core · C# · SQL Server", frontend: "Next.js · React · TypeScript" },
   shipping: ["Certify+", "Peyg", "QueueWise (City of Biñan BPLO)"],
   strengths:["Owning a product end to end", "Turning paper processes into systems", "Clean, testable APIs"],
